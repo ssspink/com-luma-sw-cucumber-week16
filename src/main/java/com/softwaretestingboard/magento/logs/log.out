@@ -1,0 +1,18 @@
+2023-07-23 21:07:679 INFO  BagsPage :63 -  mouseHoverOnWomenMenu
+2023-07-23 21:07:736 INFO  BagsPage :69 - mouseHoverOnTops
+2023-07-23 21:07:197 INFO  BagsPage :75 - clickOnJackets
+2023-07-23 21:07:821 INFO  BagsPage :31 - Before filter list
+2023-07-23 21:07:808 INFO  BagsPage :48 - After filter list
+2023-07-23 21:07:498 INFO  BagsPage :60 - Verify products are displayed in ascending order 
+2023-07-23 21:07:374 INFO  BagsPage :63 -  mouseHoverOnWomenMenu
+2023-07-23 21:07:120 INFO  BagsPage :69 - mouseHoverOnTops
+2023-07-23 21:07:413 INFO  BagsPage :75 - clickOnJackets
+2023-07-23 21:07:756 INFO  BagsPage :40 - Before filter list
+2023-07-23 21:07:423 INFO  BagsPage :57 - After filter list
+2023-07-23 21:07:914 INFO  BagsPage :69 - Verify products are displayed in ascending order 
+2023-07-23 21:07:23 INFO  BagsPage :63 -  mouseHoverOnWomenMenu
+2023-07-23 21:07:233 INFO  BagsPage :69 - mouseHoverOnTops
+2023-07-23 21:07:781 INFO  BagsPage :75 - clickOnJackets
+2023-07-23 21:07:844 INFO  BagsPage :72 - Before filter product list
+2023-07-23 21:07:186 INFO  BagsPage :82 - After filter product list
+2023-07-23 21:07:267 INFO  BagsPage :94 - Verify products are displayed in Low To High Order 
